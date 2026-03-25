@@ -42,4 +42,10 @@ Prometheus va recogiendo los datos de los contenedores por detrás, y Grafana no
 ## Vídeo Demostrativo
 En el siguiente enlace dejo el vídeo donde explico paso a paso el funcionamiento de todo este montaje, probando todas las casuísticas que se pedían en la práctica:
 
-👉 **[[PONER AQUÍ EL ENLACE AL VÍDEO](https://drive.google.com/file/d/1pg5p7hHuqL6YbKSF11ewI2rsxrvGCFjw/view?usp=sharing)]**
+**[[PONER AQUÍ EL ENLACE AL VÍDEO](https://drive.google.com/file/d/1pg5p7hHuqL6YbKSF11ewI2rsxrvGCFjw/view?usp=sharing)]**
+
+## Vídeo respondiendo a las preguntas del criterio a
+En el primer video se me ha olvidado contestar las pregundas del criterio a, asi que te adjunto otro cortito respondiendo a las preguntas:
+**[[PONER AQUÍ EL ENLACE AL VÍDEO](https://drive.google.com/file/d/12hV3QgfQ4Hq_wwpJJAssn_ETvhA7z5g-/view?usp=sharing)]**
+
+
