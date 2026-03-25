@@ -36,7 +36,7 @@ Para validar esas credenciales, Apache se comunica por la red interna con el con
 Para comprobar que los contenedores están funcionando y no se han caído, he integrado Prometheus y Grafana.
 Prometheus va recogiendo los datos de los contenedores por detrás, y Grafana nos los muestra en un panel visual. He configurado gráficos donde se puede ver en tiempo real cómo suben las peticiones de red cuando interactuamos con el servidor.
 
-[Insertar captura del panel de Grafana con los gráficos funcionando]
+![texto alternativo descriptivo](Evidencias/captura_grafana.PNG)
 
 ---
 
