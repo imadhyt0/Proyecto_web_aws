@@ -27,10 +27,13 @@ services:
     ports:
       - "80:80"
       - "443:443"
+    volumes:
+      - /etc/letsencrypt:/etc/letsencrypt:ro
     depends_on:
       - frontend
       - php
       - tomcat
+
   prometheus:
     image: prom/prometheus:latest
     container_name: servidor_prometheus
