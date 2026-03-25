@@ -7,7 +7,6 @@ Toda la infraestructura en Amazon Web Services la he levantado utilizando Terraf
 * **Subred pública:** Aquí está la máquina principal que tiene salida a internet. Aloja el proxy y los servidores web.
 * **Subred privada:** Está totalmente aislada de internet. Aquí he metido el servidor LDAP por motivos de seguridad, para que nadie desde fuera pueda atacarlo directamente.
 
-[Insertar captura de pantalla de las instancias en AWS con las IPs]
 
 ## 2. Dominio y Seguridad (HTTPS)
 Para no tener que acceder a través de una dirección IP, he usado DuckDNS para configurar el dominio dinámico `imad-proyecto-redes.duckdns.org`.
