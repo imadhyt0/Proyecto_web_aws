@@ -16,8 +16,7 @@ Además, era obligatorio no usar certificados autofirmados, así que he generado
 
 Para demostrar que la conexión es segura y no se pueden robar las contraseñas, en el vídeo realizo un snifado de red con `tcpdump` donde se ve que las cabeceras y el tráfico están totalmente cifrados.
 
-[Insertar captura del candado verde del navegador]
-[Insertar captura de la consola con el tcpdump cifrado]
+[Evidencias/captura_snifado_https.PNG]
 
 ## 3. Servidores Web y Sitios Virtuales
 En lugar de instalar los servicios a mano, he usado `docker-compose` para levantar los contenedores. Como servidor principal he elegido Apache, ya que sus módulos me permiten configurarlo fácilmente como Proxy Inverso.
